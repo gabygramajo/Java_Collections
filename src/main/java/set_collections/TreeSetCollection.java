@@ -1,9 +1,8 @@
 package set_collections;
 
-import set_collections.model.Alumno;
+import model.Alumno;
 
 import java.util.Comparator;
-import java.util.HashSet;
 import java.util.Set;
 import java.util.TreeSet;
 

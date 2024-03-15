@@ -1,6 +1,6 @@
 package iterate_collections;
 
-import set_collections.model.Alumno;
+import model.Alumno;
 
 import java.util.HashSet;
 import java.util.Set;

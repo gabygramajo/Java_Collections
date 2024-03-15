@@ -1,4 +1,4 @@
-package set_collections.model;
+package model;
 
 import java.util.Objects;
 
